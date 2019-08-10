@@ -1,0 +1,11 @@
+D:\C_Sharp_Projects\JsonDemo\JsonDemo\bin\Debug\netcoreapp2.1\JsonDemo.deps.json
+D:\C_Sharp_Projects\JsonDemo\JsonDemo\bin\Debug\netcoreapp2.1\JsonDemo.runtimeconfig.json
+D:\C_Sharp_Projects\JsonDemo\JsonDemo\bin\Debug\netcoreapp2.1\JsonDemo.runtimeconfig.dev.json
+D:\C_Sharp_Projects\JsonDemo\JsonDemo\bin\Debug\netcoreapp2.1\JsonDemo.dll
+D:\C_Sharp_Projects\JsonDemo\JsonDemo\obj\Debug\netcoreapp2.1\JsonDemo.csprojAssemblyReference.cache
+D:\C_Sharp_Projects\JsonDemo\JsonDemo\obj\Debug\netcoreapp2.1\JsonDemo.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Projects\JsonDemo\JsonDemo\obj\Debug\netcoreapp2.1\JsonDemo.AssemblyInfoInputs.cache
+D:\C_Sharp_Projects\JsonDemo\JsonDemo\obj\Debug\netcoreapp2.1\JsonDemo.AssemblyInfo.cs
+D:\C_Sharp_Projects\JsonDemo\JsonDemo\bin\Debug\netcoreapp2.1\JsonDemo.pdb
+D:\C_Sharp_Projects\JsonDemo\JsonDemo\obj\Debug\netcoreapp2.1\JsonDemo.dll
+D:\C_Sharp_Projects\JsonDemo\JsonDemo\obj\Debug\netcoreapp2.1\JsonDemo.pdb

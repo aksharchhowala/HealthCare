@@ -1,0 +1,13 @@
+{
+  "FolderName": "Home~AutomatedTest",
+  "MenuOperation": "Menu",
+  "Page1": {
+    "Id:|Button": "assign",
+    "Name:|Button": "TestData",
+    "Revision:|Button" : "assign"
+  },
+  "Page2": {
+    "SAPID:|TextField": "1014245221",
+    "SAPName:|TextField": "XVZ"
+  }
+}
